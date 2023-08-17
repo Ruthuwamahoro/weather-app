@@ -3,9 +3,75 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Weather-App</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 </head>
 <body>
-    
+    <p class="hey">Weather-App</p>
+    <div class="card">
+        <div class="search">
+            <input type="text" placeholder="Enter city /country name" spellcheck="false">
+            <button><i class="fa fa-search"></i></button>
+        </div>
+        <div class="weather">
+            <img src="" class="weather-icon">
+            <div class="box1">
+                <h1 class="temp"></h1>
+                <h2 class="city"></h2>
+            </div>
+            <h1 class="temp"></h1>
+            <h2 class="city"></h2>
+            
+            <p class="explanation">description</p>
+            <p class="description"></p>
+            <div class="details">
+                <div class="col">
+                    <img src="images/humidity.png">
+                    <div>
+                        <p class="humidity"></p>
+                        <p>Humidity</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <img src="images/wind.png">
+                    <div>
+                        <p class="wind"></p>
+                        <p>Wind Speed</p>
+                    </div>
+                </div>
+                
+                
+            </div>
+            <div class="details">
+                <div class="col">
+                    <img src="images/pressure (2).png">
+                    <div>
+                        <p class="pressure"></p>
+                        <p>Pressure</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <img src="images/clouds.png">
+                    <div>
+                        <p class="clouds"></p>
+                        <p>Clouds</p>
+                    </div>
+                </div>
+            </div>
+            <div class="details">
+                <div class="col">
+                    <img src="images/wind-rose.png">
+                    <div>
+                        <p class="direction"></p>
+                        <p>Wind Direction</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        
+    </div>
+    <script src="script.js"></script>
 </body>
 </html>
