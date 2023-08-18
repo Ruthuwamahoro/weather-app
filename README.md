@@ -1,7 +1,7 @@
-weather app description
+WeatherWise description
 OVERVIEW:
 
-This weather application is developed using external APIs to fetch and return relevant data on weather. This app is user-friendly and focuses on providing up-to-date weather forecasts and current conditions depending on location. You can plan your upcoming trip based on information.
+This weatherWise is weather application which is developed using external APIs to fetch and return relevant data on weather. This app is user-friendly and focuses on providing up-to-date weather forecasts and current conditions depending on location. You can plan your upcoming trip based on information.
 
 APIs USED:
 
@@ -17,7 +17,7 @@ USAGE OF API:
 DEMO VIDEO:
 
 Please check out the following demo video that fully explains how this weather-app is working:
-https://www.loom.com/share/ead96f4a2d7f4351a5e6a701c08bb19e
+https://www.loom.com/share/59bbf175c9ba4d5da1ab5796fff9ab68
 
 
 
