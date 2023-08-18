@@ -1,12 +1,21 @@
 weather app description
 OVERVIEW:
 
-this weather application is developed by using external APIs in order to fetch and return relevant data on weather.This app focus on providing relevant data depending on location .I used an api from (https://openweathermap.org/api) openweathermap.org
+This weather application is developed using external APIs to fetch and return relevant data on weather. This app is user-friendly and focuses on providing up-to-date weather forecasts and current conditions depending on location. You can plan your upcoming trip based on information.
 
-Getting Started
-These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
+APIs USED:
+
+OpenWeatherMap: we used this API to fetch and display the weather data in different locations worldwide. Here is the link to the API documentation(https://openweathermap.org/api).
+
+USAGE OF API:
+
+1. we created an account for the openweathermap.org website.
+2. Generating of API key to easily access the data.
+3. using API-key and API-url to fetch and display current weather forecasts in different locations worldwide.
+4. starting the application and accessing it in the browser
 
 
+DEMO VIDEO:
 
-link to the video that explains how it worked:
+Please check out the following demo video that fully explains how this weather-app is working:
 https://www.loom.com/share/ead96f4a2d7f4351a5e6a701c08bb19e
