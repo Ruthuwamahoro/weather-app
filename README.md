@@ -1,4 +1,5 @@
 WeatherWise description
+
 OVERVIEW:
 
 This weatherWise is weather application which is developed using external APIs to fetch and return relevant data on weather. This app is user-friendly and focuses on providing up-to-date weather forecasts and current conditions depending on location. You can plan your upcoming trip based on information.
