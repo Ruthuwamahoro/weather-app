@@ -14,8 +14,16 @@ USAGE OF API:
 3. using API-key and API-url to fetch and display current weather forecasts in different locations worldwide.
 4. starting the application and accessing it in the browser
 
-
 DEMO VIDEO:
 
 Please check out the following demo video that fully explains how this weather-app is working:
 https://www.loom.com/share/ead96f4a2d7f4351a5e6a701c08bb19e
+
+
+
+contributing and supporting:
+
+we enhance contribution just to widen the functionality of weather application.
+
+Developed by Ruth Uwamahoro with great support of the openWeatherMap API.
+
